@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Hello World",
+  "description": "A sophisticated Hello World React application built with Tailwind CSS and integrated with the Gemini API to generate personalized greetings.",
+  "requestFramePermissions": []
+}
